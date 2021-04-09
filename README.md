@@ -31,15 +31,3 @@ This project uses GIPHY API to generate a simple interface for users to engage w
 * `npm install --save--dev cypress`
 * `npx cypress open`
 
-
-### Linting
-
-* `npm run lint:hbs`
-* `npm run lint:js`
-* `npm run lint:js -- --fix`
-
-
-### Building
-
-* `ember build` (development)
-* `ember build --environment production` (production)
