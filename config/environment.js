@@ -20,6 +20,7 @@ module.exports = function(environment) {
     APP: {
       // Here you can pass flags/options to your application instance
       // when it is created
+      API_KEY: 'N6S4XDQgCgftRJHKLRmtOm52jHcnt4Q8'
     }
   };
 
