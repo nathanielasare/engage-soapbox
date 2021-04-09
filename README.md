@@ -23,7 +23,7 @@ This project uses GIPHY API to generate a simple interface for users to engage w
 
 ## Running / Development
 
-* `ember serve`
+* `ember s --proxy=https://api.giphy.com`
 * Visit your app at [http://localhost:4200](http://localhost:4200).
 
 
